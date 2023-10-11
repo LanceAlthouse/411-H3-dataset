@@ -1,0 +1,21 @@
+id,name,manager,role
+ID001,Robert Jones,,CEO
+ID002,Michael Moore,ID001,Manager
+ID003,Thomas Harris,ID001,Manager
+ID004,Matthew Thomas,ID001,Manager
+ID005,William Hernandez,ID001,Manager
+ID006,Emily Davis,ID004,Employee
+ID007,James Anderson,ID004,Employee
+ID008,Matthew Moore,ID005,Employee
+ID009,Charles Martinez,ID002,Employee
+ID010,Laura Thomas,ID002,Employee
+ID011,Jennifer Rodriguez,ID003,Employee
+ID012,Robert Jones,ID003,Employee
+ID013,Susan Davis,ID004,Employee
+ID014,Emily Thomas,ID005,Employee
+ID015,Richard Lewis,ID004,Employee
+ID016,David Miller,ID009,Intern
+ID017,James Jackson,ID015,Intern
+ID018,Joseph White,ID007,Intern
+ID019,Joseph Jackson,ID007,Intern
+ID020,Donald Jackson,ID009,Intern
